@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41c3c24eaa3304fd8b09d1906b08c22c, type: 3}
+  m_Name: homa_data
+  m_EditorClassIdentifier: 
+  configData:
+  - pathHash: -1609317064
+    value: aJDgn2ck
+  - pathHash: -876955219
+    value: 9dd97391ce1448d
+  - pathHash: -10439546
+    value: adjust_temp_app_id
+  - pathHash: 1158911540
+    value: u3tja1jjq9kw
+  - pathHash: -1790251483
+    value: True
+  - pathHash: 1396189054
+    value: f72a50f06d70d36033778b2470edeecc
+  - pathHash: -1555731084
+    value: 997e3eaffac455959f5e235997a42db2c15102d0
+  - pathHash: 1198286589
+    value: 823556508959329
+  PluginManifestHash: -1077162670
